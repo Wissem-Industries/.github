@@ -1,4 +1,8 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-white.svg" />
+    <img alt="Wissem Industries W logo" width="76" src="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-black.svg" />
+  </picture>
   <h1>Wissem Industries</h1>
   <p><strong>Independent digital products, built with care.</strong><br />
   Software, shared foundations and tools for everyday work.</p>
