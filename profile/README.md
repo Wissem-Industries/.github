@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Wissem Industries</h1>
   <p><strong>Independent digital products, built with care.</strong><br />
-  A small ecosystem of focused software and tools.</p>
+  Software, shared foundations and tools for everyday work.</p>
   <p>
-    <a href="https://www.wissem.pro">Explore wissem.pro</a> ·
-    <a href="https://github.com/orgs/Wissem-Industries/repositories">Browse repositories</a> ·
-    <a href="mailto:contact@wissem.pro">Get in touch</a>
+    <a href="https://www.wissem.pro"><img alt="Website" src="https://img.shields.io/badge/Website-wissem.pro-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://github.com/orgs/Wissem-Industries/repositories"><img alt="GitHub organization" src="https://img.shields.io/badge/GitHub-Wissem--Industries-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:contact@wissem.pro"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40wissem.pro-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
@@ -21,14 +21,14 @@
 | **Wissem ID** | Passkey-first identity and OpenID Connect for connected applications. | [Open Wissem ID](https://sso.wissem.pro) · Private source |
 | **Wissem CRUD** | Contact and pipeline management, with sign-in through Wissem ID. | [Open Wissem CRUD](https://crud.wissem.pro) · Private source |
 
-ParcourTime is not affiliated with Parcoursup or the French Ministry of Higher Education. Dates for future campaigns are estimates until officially published.
+Wissem Industries brings these independent products together. Wissem UI provides shared foundations for Nuxt applications; Wissem ID and Wissem CRUD power private services, while each product keeps its own purpose and identity.
 
-## How the ecosystem fits together
+Public repositories welcome issues and pull requests. Each repository's README has its current setup, technology and project-specific guidance.
 
-Wissem Home is the public front door. Wissem UI provides shared foundations to Nuxt applications, while Wissem ID and Wissem CRUD power private services. ParcourTime is an independent product with its own purpose and identity.
-
-Public repositories welcome issues and pull requests. Each repository's README has the current setup, technology and project-specific guidance.
+> **About ParcourTime:** It is not affiliated with Parcoursup or the French Ministry of Higher Education. Future campaign dates are estimates until officially published.
 
 <div align="center">
-  <sub>Made in France · <a href="https://www.wissem.pro">wissem.pro</a></sub>
+  <h2>The person behind the projects</h2>
+  <a href="https://github.com/WissemBad"><img alt="Visit Wissem on GitHub" src="https://img.shields.io/badge/Visit-WissemBad-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <p><sub>Made in France · <a href="https://www.wissem.pro">wissem.pro</a></sub></p>
 </div>
