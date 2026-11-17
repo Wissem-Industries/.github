@@ -1,9 +1,9 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-white.svg" />
-    <img alt="Wissem Industries W logo" width="76" src="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-black.svg" />
+    <img alt="Wissem's Industries W logo" width="76" src="https://raw.githubusercontent.com/Wissem-Industries/.github/main/profile/assets/logo-black.svg" />
   </picture>
-  <h1>Wissem Industries</h1>
+  <h1>Wissem's Industries</h1>
   <p><strong>Independent digital products, built with care.</strong><br />
   Software, shared foundations and tools for everyday work.</p>
   <p>
@@ -19,16 +19,14 @@
 
 | Project | What it does | Explore |
 | --- | --- | --- |
-| **Wissem Home** | Portfolio, selected work and contact information. | [Website](https://www.wissem.pro) · [Source](https://github.com/Wissem-Industries/Wissem-Home) |
-| **Wissem UI** | Shared Nuxt layer and design system for compatible applications. | [Source](https://github.com/Wissem-Industries/Wissem-UI) · [Package](https://github.com/orgs/Wissem-Industries/packages/npm/package/ui) |
-| **ParcourTime** | An independent calendar for Parcoursup phases and deadlines. | [Open app](https://parcourtime.wissem.pro) · [Source](https://github.com/Wissem-Industries/ParcourTime) |
-| **Wissem SSO** | Passkey-first identity and OpenID Connect for connected applications. | [Open Wissem SSO](https://sso.wissem.pro) · Private source |
-| **Wissem CRUD** | Contact and pipeline management, with sign-in through Wissem SSO. | [Open Wissem CRUD](https://crud.wissem.pro) · Private source |
-| **Wissem Move** | Bus and regional train journeys in Hauts-de-France, on the web, iOS and macOS. | [Open Wissem Move](https://move.wissem.pro) · Private source |
+| **Wissem Home** | Portfolio, CV and contact site. | [Website](https://www.wissem.pro) · [Source](https://github.com/Wissem-Industries/home) |
+| **Wissem UI** | Nuxt layer and design system shared by the wissem.pro applications. | [Source](https://github.com/Wissem-Industries/ui) · Private package |
+| **ParcourTime** | Independent calendar of the Parcoursup campaign. | [Open app](https://parcourtime.wissem.pro) · [Source](https://github.com/Wissem-Industries/parcourtime) |
+| **omni** | Reads the file formats of games and converts their assets into Garry's Mod content and glTF models. | [Releases](https://github.com/WissemBad/omni/releases) · [Source](https://github.com/WissemBad/omni) |
 
-Wissem Industries brings these independent products together. Wissem UI provides shared foundations for Nuxt applications; Wissem SSO, Wissem CRUD and Wissem Move run as private services, while each product keeps its own purpose and identity.
+The applications run on a self-managed Linux server with Docker, continuous deployment and monitoring. The source of Wissem UI is public under the MIT licence; its package is published privately on GitHub Packages for the wissem.pro applications.
 
-Public repositories welcome issues and pull requests. Each repository's README has its current setup, technology and project-specific guidance.
+Issues and pull requests are welcome on the public repositories. Each README describes its setup and technology.
 
 > **About ParcourTime:** It is not affiliated with Parcoursup or the French Ministry of Higher Education. Future campaign dates are estimates until officially published.
 
